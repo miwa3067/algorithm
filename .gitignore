@@ -1,2 +1,2 @@
 .DS_Store
-*.cpython-37.pyc
+*__pycache__
